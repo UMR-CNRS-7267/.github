@@ -12,7 +12,11 @@ This repository contains codes, programs and scripts developed or used in variou
 
 Bouziane MOUMEN the head  and the manager of the plateform.
 
+A CNRS bioinformatics reseach engineer 
+
 bouziane.moumen[at].cnrs.fr
+
+![](https://www.cnrs.fr/themes/custom/cnrs/logo.svg)
 
 # infrastructures
 ## Computing servers
