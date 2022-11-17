@@ -18,7 +18,7 @@ This repository contains codes, programs and scripts developed or used in variou
 
 ![](https://www.cnrs.fr/themes/custom/cnrs/logo.svg)
 
-# infrastructures
+# Infrastructures
 ## Computing servers
 ### 1: Small node 
     Cores: 12 cores (24cpu)
@@ -56,6 +56,8 @@ This repository contains codes, programs and scripts developed or used in variou
 # Installed tools
 coming soon
 
+# Home developed scripts/tools 
+Coming soon
 
 
 
