@@ -24,23 +24,24 @@ This repository contains codes, programs and scripts developed or used in variou
     Cores: 12 cores (24cpu)
     RAM: 144Go
     22To for data
-    
+    Interactive node access
 ### 2: Medium Node
     Cores: 24 cores (24cpu)
     RAM: 265 Go
     10 To for data
+    Interactive node access
 ### 3: Big Node
     Cores: 40 cores (24cpu)
     RAM: 1T
     22To for data
-    
+    Interactive node access
 ### 4: HPC cluster
     8 nodes
     3 To of shared RAM
     Cores : 272 cores
     13 Teraflops
     20To for data 
-
+    Slurm Job manager only
 ### 5: NAS (Network Attached Storage) 
     Cores: 4C
     RAM: 12 Go
