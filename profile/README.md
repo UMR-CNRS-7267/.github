@@ -18,6 +18,7 @@ This repository contains codes, programs and scripts developed or used in variou
 
 ![](https://www.cnrs.fr/themes/custom/cnrs/logo.svg)
 
+![](https://www.univ-poitiers.fr/wp-content/uploads/sites/10/2021/10/logo-up.svg)
 # Infrastructures
 ## Computing servers
 ### 1: Small node 
