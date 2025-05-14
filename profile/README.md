@@ -53,7 +53,7 @@ This repository contains codes, programs and scripts developed or used in variou
     RAM: 32Go
     capacity of storage: 70To
 ### 7: Vm machines
-    Several VM: In demand. 
+    Several VM: On demand. 
     
 # Installed tools
 coming soon
