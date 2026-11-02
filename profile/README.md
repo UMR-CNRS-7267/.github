@@ -35,7 +35,7 @@
 UMR CNRS 7267.
 
 Founded in 2012, the platform provides computational
-resources, bioinformatics expertise and analytical
+resources, bioinformatics expertise, and analytical
 support for high-throughput sequencing and omics data.
 
 Our expertise covers:
@@ -56,13 +56,14 @@ Our expertise covers:
 Our platform provides dedicated computational resources
 for demanding bioinformatics analyses.
 
-### Computing Nodes
+### Computing servers
 
 | Infrastructure | CPU Cores | RAM | Storage | Access |
 |---|---:|---:|---:|---|
 | Small Node | 12 | 144 GB | 22 TB | Interactive |
 | Medium Node | 24 | 265 GB | 10 TB | Interactive |
-| Big Node | 40 | 1 TB | 22 TB | Interactive |
+| Big Node 1 | 40 | 1 TB | 22 TB | Interactive |
+| Big Node 1 |128 | 1TB  |50TB   | Interactive |
 
 ### HPC Cluster
 
@@ -80,7 +81,7 @@ for demanding bioinformatics analyses.
 | Infrastructure | Specification |
 |---|---|
 | NAS | 28 TB |
-| Backup & Archiving | 70 TB |
+| Backup & Archiving | 300 TB |
 | Virtual Machines | On demand |
 
 ---
