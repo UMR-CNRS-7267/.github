@@ -88,11 +88,8 @@ for demanding bioinformatics analyses.
 
 ## 🧰 Software Catalogue
 
-> This catalogue lists bioinformatics software available on the platform. Software is provided through environment modules, Conda environments and/or Singularity/Apptainer containers, depending on the tool.
->
-> Software is regularly maintained and updated. Availability can vary between computing nodes and environments. If a tool is not available or you need a particular version, please contact the platform administrator.
->
-> **Note:** Software versions are intentionally omitted from this catalogue. The links below point to upstream project pages, documentation or source-code repositories where available. A few locally named environments or ambiguous package names are listed separately for confirmation.
+This catalogue lists bioinformatics software available on the platform. Software is provided through environment modules, Conda environments, and/or Singularity/Apptainer containers, depending on the tool.
+Software is regularly maintained and updated. Availability can vary between computing nodes and environments. If a tool is not available or you need a particular version, please contact the platform administrator.
 
 ---
 
