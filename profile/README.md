@@ -1,3 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="./banner-light.svg">
+  <img src="./banner-light.svg"
+       width="100%"
+       alt="eBIOINF Bioinformatics Core Facility">
+</picture>
 <p align="center">
   <img src="LOGO.jpg" width="160">
 </p>
