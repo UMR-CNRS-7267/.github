@@ -88,6 +88,86 @@ for demanding bioinformatics analyses.
 
 ## 🧰 Software Catalogue
         
+## 🧬 Genome assembly and reconstruction
+
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}Show genome assembly tools`</strong>`{=html}
+```{=html}
+</summary>
+```
+  ------------------------------------------------------------------------------------------------
+  Software                Description             Project
+  ----------------------- ----------------------- ------------------------------------------------
+  ABySS                   De novo genome          [GitHub](https://github.com/bcgsc/abyss)
+                          assembler based on de   
+                          Bruijn graphs, commonly 
+                          used for short-read     
+                          data.                   
+
+  Canu                    De novo assembler for   [GitHub](https://github.com/marbl/canu)
+                          noisy long reads,       
+                          including PacBio and    
+                          Oxford Nanopore data.   
+
+  DENTIST                 Tool for detecting and  [GitHub](https://github.com/ksahlin/DENTIST)
+                          correcting assembly     
+                          errors using long-read  
+                          alignments.             
+
+  FMLRC2                  Hybrid error correction [GitHub](https://github.com/hanfang/FMLRC2)
+                          of long reads using     
+                          accurate short reads.   
+
+  hifiasm                 Fast assembler for      [GitHub](https://github.com/chhylp123/hifiasm)
+                          PacBio HiFi reads,      
+                          including phased and    
+                          haplotype-resolved      
+                          assemblies.             
+
+  MEGAHIT                 Fast, memory-efficient  [GitHub](https://github.com/voutcn/megahit)
+                          assembler designed for  
+                          large and complex       
+                          metagenomic datasets.   
+
+  minipolish              Polishes long-read      [GitHub](https://github.com/rrwick/Minipolish)
+                          assembly graphs using   
+                          read-to-assembly        
+                          alignments.             
+
+  PECAT                   Long-read genome        [GitHub](https://github.com/lemene/PECAT)
+                          assembly pipeline with  
+                          error correction and    
+                          assembly refinement.    
+
+  Peregrine               Fast assembler for      [GitHub](https://github.com/cschin/Peregrine)
+                          long, accurate          
+                          sequencing reads.       
+
+  Raven                   De novo genome          [GitHub](https://github.com/lbcb-sci/raven)
+                          assembler for long      
+                          sequencing reads.       
+
+  rust-mdbg               Genome assembly based   [GitHub](https://github.com/ekimb/rust-mdbg)
+                          on a minimizer-space de 
+                          Bruijn graph approach.  
+
+  Verkko                  Builds high-quality,    [GitHub](https://github.com/marbl/verkko)
+                          often                   
+                          haplotype-resolved      
+                          assemblies using        
+                          long-read data,         
+                          particularly HiFi and   
+                          ultra-long reads.       
+  ------------------------------------------------------------------------------------------------
+
+```{=html}
+</details>
+
 
 
 
