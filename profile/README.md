@@ -351,7 +351,7 @@ for demanding bioinformatics analyses.
 | R packages (including `rgdal` and `chili`) | R packages used by specific analytical workflows. Package availability depends on the corresponding R environment. |
 | Snakemake | Workflow management system for reproducible and scalable data analysis. [GitHub](https://github.com/snakemake/snakemake) |
 | hicstuff | Hi-C data processing utilities. See the Hi-C section above. |
-| KeggANOG | Local environment name; confirm whether this refers to a KEGG/eggNOG annotation workflow or a specific package. |
+| KeggANOG | This tool KEGGaNOG makes eggNOG-mapper meet KEGG-Decoder! It parses eggNOG-mapper output, make it fit for the input to KEGG-Decoder, and then visualizes KEGG Pathways as a heatmap.[GitHub](https://github.com/ilypopv/KEGGaNOG) |
 
 </details>
 
