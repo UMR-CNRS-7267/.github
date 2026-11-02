@@ -7,11 +7,7 @@
   <img src="./banner-light.svg"
        width="100%"
        alt="eBIOINF Bioinformatics Core Facility">
-</picture>
 
-<p align="center">
-  <img src="LOGO.jpg" width="160">
-</p>
 
 <h1 align="center">eBIOINF</h1>
 
