@@ -100,8 +100,7 @@ Coming soon...
 
 ## 👨‍🔬 Platform Team
 
-**Bouziane MOUMEN**  
-Bioinformatics Platform Manager
+**Bouziane MOUMEN**:   Bioinformatics Platform Manager
 
 **Bioinformatics Research Engineer**  
 CNRS
