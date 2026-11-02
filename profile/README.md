@@ -102,8 +102,8 @@ Coming soon...
 
 **Bouziane MOUMEN**:   Bioinformatics Platform Manager
 
-**Bioinformatics Research Engineer**  
-CNRS
+**CNRS Bioinformatics Research Engineer**  
+
 
 📧 bouziane.moumen[at]cnrs.fr
 📧 bouziane.moumen[at]univ-poitiers.fr
