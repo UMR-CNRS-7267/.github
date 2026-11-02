@@ -88,6 +88,12 @@ for demanding bioinformatics analyses.
 
 ## 🧰 Software Catalogue
 
+### NGS data preprocessing
+
+**FastQC:** Provides quality control checks on raw sequence data  from high-throughput sequencing platforms.  
+
+
+
 
 ## 🔧 Software Availability & Support
 
