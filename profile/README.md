@@ -63,7 +63,7 @@ for demanding bioinformatics analyses.
 | Small Node | 12 | 144 GB | 22 TB | Interactive |
 | Medium Node | 24 | 265 GB | 10 TB | Interactive |
 | Big Node 1 | 40 | 1 TB | 22 TB | Interactive |
-| Big Node 1 |128 | 1TB  |50TB   | Interactive |
+| Big Node 2 |128 | 1TB  |50TB   | Interactive |
 
 ### HPC Cluster
 
@@ -92,7 +92,7 @@ Coming soon...
 
 ## 🧑‍💻 In-house Development
 
-Scripts, pipelines and tools developed by eBIOINF.
+Scripts, pipelines, and tools developed by eBIOINF.
 
 Coming soon...
 
@@ -107,6 +107,7 @@ Bioinformatics Platform Manager
 CNRS
 
 📧 bouziane.moumen[at]cnrs.fr
+📧 bouziane.moumen[at]univ-poitiers.fr
 
 ---
 
