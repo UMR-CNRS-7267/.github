@@ -16,9 +16,13 @@ This repository contains codes, programs, and scripts developed or used in vario
 
 * bouziane.moumen[at].cnrs.fr 
 
-<img src="https://www.cnrs.fr/themes/custom/cnrs/logo.svg" height="60">
+<p align="center">
+  <img src="https://www.cnrs.fr/themes/custom/cnrs/logo.svg" height="65">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.univ-poitiers.fr/wp-content/uploads/sites/10/2021/10/logo-up.svg" height="65">
+</p>
 
-![](https://www.univ-poitiers.fr/wp-content/uploads/sites/10/2021/10/logo-up.svg)
+
 # Infrastructures
 ## Computing servers
 ### 1: Small node 
