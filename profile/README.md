@@ -90,7 +90,23 @@ for demanding bioinformatics analyses.
 
 ### NGS data preprocessing
 
-**FastQC:** Provides quality control checks on raw sequence data  from high-throughput sequencing platforms.  
+**FastQC:** Provides quality control checks on raw sequence data (short reads)  from high-throughput sequencing platforms. 
+**pycoQC:** Provides quality control checks on raw sequence data for Nanopore data.
+
+<details>
+<summary><b>🧬 Genome Assembly & Reconstruction</b></summary>
+
+<br>
+
+| Software | Description |
+|---|---|
+| Canu | De novo assembly of long-read sequencing data. |
+| hifiasm | Haplotype-resolved genome assembly. |
+| MEGAHIT | Metagenomic assembly. |
+| Raven | Long-read genome assembly. |
+| Verkko | High-quality genome assembly using HiFi and ONT reads. |
+
+</details>
 
 
 
