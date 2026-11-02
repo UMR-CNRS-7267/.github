@@ -86,9 +86,15 @@ for demanding bioinformatics analyses.
 
 ---
 
-## 🧰 Bioinformatics Tools
+## 🧰 Software Catalogue
 
-Coming soon...
+
+## 🔧 Software Availability & Support
+
+Bioinformatics software and tools are provided through environment modules, Conda environments, and Singularity/Apptainer containers. 
+All software is regularly maintained and updated. If the software or tools you need aren't currently installed or available, 
+contact the platform administrator to request installation.
+
 
 ## 🧑‍💻 In-house Development
 
