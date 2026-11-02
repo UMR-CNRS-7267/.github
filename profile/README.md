@@ -98,7 +98,7 @@ Bioinformatics Platform Manager
 **Bioinformatics Research Engineer**  
 CNRS
 
-📧 bouziane.moumen@cnrs.fr
+📧 bouziane.moumen[at]cnrs.fr
 
 ---
 
