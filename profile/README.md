@@ -407,12 +407,14 @@ Coming soon...
 ## 👨‍🔬 Platform Team
 
 **Bouziane MOUMEN**:   Bioinformatics Platform Manager
-
 **CNRS Bioinformatics Research Engineer**  
-
 
 📧 bouziane.moumen[at]cnrs.fr
 📧 bouziane.moumen[at]univ-poitiers.fr
+
+**Jean-baptiste BERTHELOT**: IT support
+
+jean.baptiste.berthelot[at]univ-poitiers.fr
 
 ---
 
