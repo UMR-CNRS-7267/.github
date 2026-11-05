@@ -404,7 +404,7 @@ Coming soon...
 
 ---
 
-## 👨‍🔬 Platform Team
+<h2><strong><font color="#003366">👨‍🔬 Platform Team</font></strong></h2>
 
 **Bouziane MOUMEN**:   Bioinformatics Platform Manager
 **CNRS Bioinformatics Research Engineer**  
