@@ -418,6 +418,10 @@ Coming soon...
 
 ---
 
+## How to cite the platform:
+
+*We acknowledge the Ebioinfo platform at the UMR CNRS 7267 at the University of Poitiers for providing the computing infrastructure and resources to analyse our data*
+
 <p align="center">
   <img src="https://www.cnrs.fr/themes/custom/cnrs/logo.svg" height="45">
   &nbsp;&nbsp;&nbsp;&nbsp;
