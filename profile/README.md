@@ -418,7 +418,7 @@ Coming soon...
 
 ---
 
-## How to cite the platform:
+##  📚 How to cite the platform:
 
 *We acknowledge the Ebioinfo platform at the UMR CNRS 7267 at the University of Poitiers for providing the computing infrastructure and resources to analyse our data*
 
