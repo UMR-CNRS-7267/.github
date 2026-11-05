@@ -412,9 +412,9 @@ Coming soon...
 📧 bouziane.moumen[at]cnrs.fr
 📧 bouziane.moumen[at]univ-poitiers.fr
 
-**Jean-baptiste BERTHELOT**: IT support
+**Jean-baptiste BERTHELOT**: University (SFA) IT support
 
-jean.baptiste.berthelot[at]univ-poitiers.fr
+📧 jean.baptiste.berthelot[at]univ-poitiers.fr
 
 ---
 
